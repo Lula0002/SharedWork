@@ -3,6 +3,7 @@
 ## During an incident
 
 1. Declare it — post in the team channel so everyone knows.
+   - Use the [SBAR Template](sbar-template.md) for clear communication.
 2. Assign a single owner to coordinate the response.
 3. Fix first, understand second. Revert if unsure.
 
