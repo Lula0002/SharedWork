@@ -11,6 +11,7 @@
 - Aim to review within one working day.
 - Distinguish blockers from suggestions: prefix suggestions with `nit:` or `optional:`.
 - Approve when you'd be comfortable shipping it — not when it's perfect.
+- Practice Radical Candor: challenge directly but care personally. Keep feedback focused on the code, not the author.
 
 ## Merging
 

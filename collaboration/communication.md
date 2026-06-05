@@ -13,3 +13,13 @@
 | Technical decisions | PR description or a file in this repo |
 | Quick questions | Chat (Slack / Teams / etc.) |
 | Incidents | `processes/incidents.md` |
+
+## Frameworks
+
+| Framework | Best For |
+|---|---|
+| **SBAR** | Incident reports and urgent technical updates |
+| **RFC** | Async technical decisions and architectural changes |
+| **Radical Candor** | Code reviews and peer feedback |
+| **RACI** | Defining responsibilities on cross-functional tasks |
+| **NVC** | De-escalating technical disagreements |
