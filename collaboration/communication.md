@@ -20,8 +20,8 @@
 
 | Framework | Best For |
 |---|---|
-| **SBAR** | Incident reports and urgent technical updates |
-| **RFC** | Async technical decisions and architectural changes |
+| **SBAR** | Incident reports and urgent technical updates ([Template](../processes/sbar-template.md)) |
+| **RFC** | Async technical decisions and architectural changes ([Template](../processes/rfc-template.md)) |
 | **Radical Candor** | Code reviews and peer feedback |
 | **RACI** | Defining responsibilities on cross-functional tasks |
 | **NVC** | De-escalating technical disagreements |
