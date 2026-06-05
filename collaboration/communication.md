@@ -13,6 +13,8 @@
 | Technical decisions | PR description or a file in this repo |
 | Quick questions | Chat (Slack / Teams / etc.) |
 | Incidents | `processes/incidents.md` |
+| External / formal communication | Email |
+| Urgent escalation | Phone or video call |
 
 ## Frameworks
 
