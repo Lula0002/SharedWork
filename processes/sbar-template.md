@@ -17,3 +17,5 @@ Use this template for communicating urgent updates or incidents.
 ## Recommendation
 
 - [Actionable next steps, architectural changes, or requests for approval.]
+- [Actionable next steps, architectural changes, or requests for approval.]
+
