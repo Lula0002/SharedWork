@@ -10,6 +10,6 @@ A shared knowledge repository defining how we work together — our processes, s
 | `standards/` | What good code and documentation looks like |
 | `processes/` | Step-by-step workflows for recurring tasks |
 
-## Contributing
+## Contributers
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before adding or editing content.
