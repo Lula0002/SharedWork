@@ -14,7 +14,7 @@
 
 ## Post-mortem format
 
-```
+```markdown
 ## What happened
 ## Timeline
 ## Root cause
